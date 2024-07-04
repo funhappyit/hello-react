@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="fldodf">
-      <change afterPath="$PROJECT_DIR$/test-react/src/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-react/src/EventPractice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-react/src/Say.js" afterDir="false" />
+    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-03&#10;버튼 클릭 이벤트">
+      <change afterPath="$PROJECT_DIR$/test-react/src/IterationSample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-react/src/LifeCycleSample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-react/src/RefSample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-react/src/ScrollBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-react/src/ValIdationSample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-react/src/ValidationSample.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-react/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-react/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-react/src/MyComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-react/src/MyComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-react/src/EventPractice.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-react/src/EventPractice.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,15 +53,13 @@
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,7 +85,8 @@
       <workItem from="1719879741936" duration="8477000" />
       <workItem from="1719967465332" duration="944000" />
       <workItem from="1719971680609" duration="2484000" />
-      <workItem from="1719987406738" duration="7336000" />
+      <workItem from="1719987406738" duration="7871000" />
+      <workItem from="1720052965809" duration="21373000" />
     </task>
     <task id="LOCAL-00001" summary="fldodf">
       <created>1719823101395</created>
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719823101395</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2024-07-03&#10;버튼 클릭 이벤트">
+      <created>1719996746131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719996746131</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fldodf" />
-    <option name="LAST_COMMIT_MESSAGE" value="fldodf" />
+    <MESSAGE value="2024-07-03&#10;버튼 클릭 이벤트" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-07-03&#10;버튼 클릭 이벤트" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
