@@ -10,6 +10,7 @@ import LifeCycleSample from "./LifeCycleSample";
 import ErrorBoundary from "./ErrorBoundary";
 import Info from "./info";
 import Average from "./Average";
+import Info2 from "./info2";
 
 
 // class App extends Component{
@@ -45,7 +46,7 @@ const App = () =>{
     //
     //     </div>
     // )
-    return <Average/>
+    return <Info2/>
 }
 
 
