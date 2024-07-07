@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/hello-reac.iml" filepath="$PROJECT_DIR$/.idea/hello-reac.iml" />
       <module fileurl="file://$PROJECT_DIR$/styling-react/styling-react.iml" filepath="$PROJECT_DIR$/styling-react/styling-react.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-react/test-react.iml" filepath="$PROJECT_DIR$/test-react/test-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todo-app/todo-app.iml" filepath="$PROJECT_DIR$/todo-app/todo-app.iml" />
     </modules>
   </component>
 </project>
