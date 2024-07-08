@@ -3,9 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hello-reac.iml" filepath="$PROJECT_DIR$/.idea/hello-reac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immer-tutorial/immer-tutorial.iml" filepath="$PROJECT_DIR$/immer-tutorial/immer-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/styling-react/styling-react.iml" filepath="$PROJECT_DIR$/styling-react/styling-react.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-react/test-react.iml" filepath="$PROJECT_DIR$/test-react/test-react.iml" />
-      <module fileurl="file://$PROJECT_DIR$/todo-app/todo-app.iml" filepath="$PROJECT_DIR$/todo-app/todo-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todo-list/todo-list.iml" filepath="$PROJECT_DIR$/todo-list/todo-list.iml" />
     </modules>
   </component>
 </project>
