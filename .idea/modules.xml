@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/context-tutorial/context-tutorial.iml" filepath="$PROJECT_DIR$/context-tutorial/context-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hello-reac.iml" filepath="$PROJECT_DIR$/.idea/hello-reac.iml" />
       <module fileurl="file://$PROJECT_DIR$/immer-tutorial/immer-tutorial.iml" filepath="$PROJECT_DIR$/immer-tutorial/immer-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-viewer/news-viewer.iml" filepath="$PROJECT_DIR$/news-viewer/news-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router-tutorial/router-tutorial.iml" filepath="$PROJECT_DIR$/router-tutorial/router-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/styling-react/styling-react.iml" filepath="$PROJECT_DIR$/styling-react/styling-react.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-react/test-react.iml" filepath="$PROJECT_DIR$/test-react/test-react.iml" />
       <module fileurl="file://$PROJECT_DIR$/todo-list/todo-list.iml" filepath="$PROJECT_DIR$/todo-list/todo-list.iml" />

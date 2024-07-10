@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/todo-list/src/TodoInsert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo-list/src/TodoInsert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo-list/src/TodoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo-list/src/TodoList.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo-list/src/TodoListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo-list/src/TodoListItem.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo-list/src/TodoTemplate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo-list/src/TodoTemplate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo-list/todo-list.iml" afterDir="false" />
+    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-08&#10;immer불변성 까지">
+      <change afterPath="$PROJECT_DIR$/context-tutorial/context-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-tutorial/src/components/ColorBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-tutorial/src/components/SelectColors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-tutorial/src/contexts/color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news-viewer/news-viewer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news-viewer/src/Categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news-viewer/src/NewsItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news-viewer/src/NewsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news-viewer/src/NewsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news-viewer/src/lib/usePromise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/router-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/src/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Articles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/src/MyPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/src/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Profile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_07_2_19___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_07_2_19___Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/TodoTemplate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/todo-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/immer-tutorial/immer-tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/immer-tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/immer-tutorial/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +40,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2ib4HwUbUVB3MEPyGazeUFwD0Zy" />
   <component name="ProjectViewState">
@@ -48,12 +65,15 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/test-react/node_modules/eslint" />
+    <property name="node.js.selected.package.eslint" value="C:\workspace(2022Intellj)\hello-react\test-react\node_modules\eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\workspace(2022Intellj)\hello-react\test-react\node_modules\prettier" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RunManager">
@@ -97,6 +117,8 @@
       <workItem from="1720339533235" duration="3864000" />
       <workItem from="1720343697152" duration="3909000" />
       <workItem from="1720347676947" duration="1018000" />
+      <workItem from="1720485291846" duration="23945000" />
+      <workItem from="1720571017741" duration="24366000" />
     </task>
     <task id="LOCAL-00001" summary="fldodf">
       <created>1719823101395</created>
@@ -126,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720347451144</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2024-07-08&#10;immer불변성 까지">
+      <created>1720428593839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720428593839</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2024-07-08&#10;immer불변성 까지">
+      <created>1720428680312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720428680312</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,11 +171,41 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="4ded0c8e-6a70-4f85-a2a1-0be202d9b09d">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="4ded0c8e-6a70-4f85-a2a1-0be202d9b09d" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -149,7 +215,8 @@
     <MESSAGE value="2024-07-03&#10;버튼 클릭 이벤트" />
     <MESSAGE value="2024-07-04&#10;컴포넌트 라이프 사이클 매서드" />
     <MESSAGE value="2024-07-07&#10;컴포넌트 css 작업" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-07-07&#10;컴포넌트 css 작업" />
+    <MESSAGE value="2024-07-08&#10;immer불변성 까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-07-08&#10;immer불변성 까지" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
