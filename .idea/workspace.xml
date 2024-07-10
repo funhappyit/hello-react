@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-08&#10;immer불변성 까지">
-      <change afterPath="$PROJECT_DIR$/context-tutorial/context-tutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/context-tutorial/src/components/ColorBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/context-tutorial/src/components/SelectColors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/context-tutorial/src/contexts/color.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news-viewer/news-viewer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news-viewer/src/Categories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news-viewer/src/NewsItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news-viewer/src/NewsList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news-viewer/src/NewsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news-viewer/src/lib/usePromise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/router-tutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Article.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Articles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/MyPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/NotFound.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-08&#10;15장 까지">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/immer-tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/immer-tutorial/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-viewer/src/NewsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-viewer/src/NewsList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +56,15 @@
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,7 +99,8 @@
       <workItem from="1720343697152" duration="3909000" />
       <workItem from="1720347676947" duration="1018000" />
       <workItem from="1720485291846" duration="23945000" />
-      <workItem from="1720571017741" duration="24366000" />
+      <workItem from="1720571017741" duration="24771000" />
+      <workItem from="1720602367985" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="fldodf">
       <created>1719823101395</created>
@@ -162,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720428680312</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2024-07-08&#10;15장 까지">
+      <created>1720601889890</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720601889890</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +205,8 @@
     <MESSAGE value="2024-07-04&#10;컴포넌트 라이프 사이클 매서드" />
     <MESSAGE value="2024-07-07&#10;컴포넌트 css 작업" />
     <MESSAGE value="2024-07-08&#10;immer불변성 까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-07-08&#10;immer불변성 까지" />
+    <MESSAGE value="2024-07-08&#10;15장 까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-07-08&#10;15장 까지" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
