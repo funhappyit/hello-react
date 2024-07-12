@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-08&#10;15장 까지">
-      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/components/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/components/Todos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vanila-redux/src/redux/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vanila-redux/src/redux/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vanila-redux/src/redux/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vanila-redux/vanila-redux.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-11&#10;17장 까지">
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/todos.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/context-tutorial/src/components/ColorBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/context-tutorial/src/components/ColorBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/context-tutorial/src/components/SelectColors.js" beforeDir="false" afterPath="$PROJECT_DIR$/context-tutorial/src/components/SelectColors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/context-tutorial/src/contexts/color.js" beforeDir="false" afterPath="$PROJECT_DIR$/context-tutorial/src/contexts/color.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news-viewer/src/NewsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-viewer/src/NewsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/components/Todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/components/Todos.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +104,8 @@
       <workItem from="1720485291846" duration="23945000" />
       <workItem from="1720571017741" duration="24771000" />
       <workItem from="1720602367985" duration="77000" />
-      <workItem from="1720657115344" duration="24477000" />
+      <workItem from="1720657115344" duration="24891000" />
+      <workItem from="1720743867179" duration="10859000" />
     </task>
     <task id="LOCAL-00001" summary="fldodf">
       <created>1719823101395</created>
@@ -168,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720602427339</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2024-07-11&#10;17장 까지">
+      <created>1720688957532</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720688957532</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +225,8 @@
     <MESSAGE value="2024-07-07&#10;컴포넌트 css 작업" />
     <MESSAGE value="2024-07-08&#10;immer불변성 까지" />
     <MESSAGE value="2024-07-08&#10;15장 까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-07-08&#10;15장 까지" />
+    <MESSAGE value="2024-07-11&#10;17장 까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-07-11&#10;17장 까지" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
