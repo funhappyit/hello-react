@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-11&#10;17장 까지">
-      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/todos.js" afterDir="false" />
+    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-07&#10;todo list 작업">
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/container/CounterContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/container/TodosContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-viewer/src/NewsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-viewer/src/NewsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/components/Todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/components/Todos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/modules/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/modules/todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/todos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +53,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="C:\workspace(2022Intellj)\hello-react\test-react\node_modules\eslint" />
+    <property name="node.js.selected.package.eslint" value="C:/workspace(2022Intellj)/hello-react/test-react/node_modules/eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -106,6 +111,9 @@
       <workItem from="1720602367985" duration="77000" />
       <workItem from="1720657115344" duration="24891000" />
       <workItem from="1720743867179" duration="10859000" />
+      <workItem from="1720848781869" duration="479000" />
+      <workItem from="1720871176248" duration="4870000" />
+      <workItem from="1720925021318" duration="12161000" />
     </task>
     <task id="LOCAL-00001" summary="fldodf">
       <created>1719823101395</created>
@@ -226,7 +234,8 @@
     <MESSAGE value="2024-07-08&#10;immer불변성 까지" />
     <MESSAGE value="2024-07-08&#10;15장 까지" />
     <MESSAGE value="2024-07-11&#10;17장 까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-07-11&#10;17장 까지" />
+    <MESSAGE value="2024-07-07&#10;todo list 작업" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-07-07&#10;todo list 작업" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
