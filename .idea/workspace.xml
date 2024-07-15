@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-07&#10;todo list 작업">
-      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/container/CounterContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/container/TodosContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_07_2_19___Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_07_2_19_오후_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_13_7_59___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_13_7_59___Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/components/Todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/components/Todos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/modules/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/container/CounterContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/container/CounterContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/container/TodosContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/container/TodosContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/modules/todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/todos.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" afterDir="false" />
     </list>
@@ -53,7 +51,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="C:/workspace(2022Intellj)/hello-react/test-react/node_modules/eslint" />
+    <property name="node.js.selected.package.eslint" value="C:\workspace(2022Intellj)\hello-react\test-react\node_modules\eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -66,13 +64,15 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
