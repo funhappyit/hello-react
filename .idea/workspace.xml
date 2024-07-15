@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-07&#10;todo list 작업">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_07_2_19___Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_07_2_19_오후_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_13_7_59___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_13_7_59___Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-15&#10;17장 커밋 푸시">
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/learn-redux-middleware.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/containers/CounterContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/modules/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/container/CounterContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/container/CounterContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/container/TodosContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/container/TodosContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/modules/todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/src/modules/todos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720688957532</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2024-07-15&#10;17장 커밋 푸시">
+      <created>1721022660818</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022660818</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +240,8 @@
     <MESSAGE value="2024-07-08&#10;15장 까지" />
     <MESSAGE value="2024-07-11&#10;17장 까지" />
     <MESSAGE value="2024-07-07&#10;todo list 작업" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-07-07&#10;todo list 작업" />
+    <MESSAGE value="2024-07-15&#10;17장 커밋 푸시" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-07-15&#10;17장 커밋 푸시" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

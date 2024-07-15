@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/context-tutorial/context-tutorial.iml" filepath="$PROJECT_DIR$/context-tutorial/context-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hello-reac.iml" filepath="$PROJECT_DIR$/.idea/hello-reac.iml" />
       <module fileurl="file://$PROJECT_DIR$/immer-tutorial/immer-tutorial.iml" filepath="$PROJECT_DIR$/immer-tutorial/immer-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-redux-middleware/learn-redux-middleware.iml" filepath="$PROJECT_DIR$/learn-redux-middleware/learn-redux-middleware.iml" />
       <module fileurl="file://$PROJECT_DIR$/news-viewer/news-viewer.iml" filepath="$PROJECT_DIR$/news-viewer/news-viewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/react-redux-tutorial/react-redux-tutorial.iml" filepath="$PROJECT_DIR$/react-redux-tutorial/react-redux-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/router-tutorial/router-tutorial.iml" filepath="$PROJECT_DIR$/router-tutorial/router-tutorial.iml" />
