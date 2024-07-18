@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-15&#10;18장 커밋 푸시">
-      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/lib/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/lib/loggerMiddleware.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-07-08__9_12__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-07-08_오전_9_12_[Default_Changelist]/shelved.patch" beforeDir="false" />
+    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-16&#10;18장 커밋 푸시">
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/components/Sample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/containers/SampleContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/lib/createRequestThunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/modules/loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-redux-middleware/src/modules/sample.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn-redux-middleware/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn-redux-middleware/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-redux-middleware/src/containers/CounterContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-redux-middleware/src/containers/CounterContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-redux-middleware/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-redux-middleware/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn-redux-middleware/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-redux-middleware/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn-redux-middleware/src/modules/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-redux-middleware/src/modules/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-redux-middleware/src/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-redux-middleware/src/modules/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn-redux-middleware/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/learn-redux-middleware/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,17 +67,6 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -115,7 +104,9 @@
       <workItem from="1720848781869" duration="479000" />
       <workItem from="1720871176248" duration="4870000" />
       <workItem from="1720925021318" duration="12161000" />
-      <workItem from="1721088564369" duration="11817000" />
+      <workItem from="1721088564369" duration="12044000" />
+      <workItem from="1721176114768" duration="20094000" />
+      <workItem from="1721261228349" duration="7352000" />
     </task>
     <task id="LOCAL-00001" summary="fldodf">
       <created>1719823101395</created>
@@ -194,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721026471619</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2024-07-16&#10;18장 커밋 푸시">
+      <created>1721121553872</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721121553872</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +251,8 @@
     <MESSAGE value="2024-07-07&#10;todo list 작업" />
     <MESSAGE value="2024-07-15&#10;17장 커밋 푸시" />
     <MESSAGE value="2024-07-15&#10;18장 커밋 푸시" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-07-15&#10;18장 커밋 푸시" />
+    <MESSAGE value="2024-07-16&#10;18장 커밋 푸시" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-07-16&#10;18장 커밋 푸시" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
