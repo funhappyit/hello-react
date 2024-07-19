@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/news-viewer/news-viewer.iml" filepath="$PROJECT_DIR$/news-viewer/news-viewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/react-redux-tutorial/react-redux-tutorial.iml" filepath="$PROJECT_DIR$/react-redux-tutorial/react-redux-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/router-tutorial/router-tutorial.iml" filepath="$PROJECT_DIR$/router-tutorial/router-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splitting-sample/splitting-sample.iml" filepath="$PROJECT_DIR$/splitting-sample/splitting-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssr-recipe/ssr-recipe.iml" filepath="$PROJECT_DIR$/ssr-recipe/ssr-recipe.iml" />
       <module fileurl="file://$PROJECT_DIR$/styling-react/styling-react.iml" filepath="$PROJECT_DIR$/styling-react/styling-react.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-react/test-react.iml" filepath="$PROJECT_DIR$/test-react/test-react.iml" />
       <module fileurl="file://$PROJECT_DIR$/todo-list/todo-list.iml" filepath="$PROJECT_DIR$/todo-list/todo-list.iml" />

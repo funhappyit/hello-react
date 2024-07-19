@@ -1,6 +1,9 @@
-import {handleActions} from "redux-actions";
+// import {handleActions} from "redux-actions";
+// import * as api from '../lib/api';
+// import createRequestThunk from "../lib/createRequestThunk";
+import {createAction,handleActions} from "redux-actions";
+import {call,put,takeLatest} from 'redux-saga/effects';
 import * as api from '../lib/api';
-import createRequestThunk from "../lib/createRequestThunk";
 
 /*
 액션 타입을 선언합니다.
