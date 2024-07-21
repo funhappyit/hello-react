@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-18&#10;18장">
-      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/splitting-sample/splitting-sample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/splitting-sample/src/SplitMe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/splitting-sample/src/notify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssr-recipe/ssr-recipe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/posts.ctrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_13_7_59___Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_13_7_59_오전_[Default_Changelist]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-redux-middleware/src/modules/sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-redux-middleware/src/modules/sample.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styling-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/styling-react/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styling-react/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/styling-react/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,6 +272,18 @@
     <MESSAGE value="2024-07-16&#10;18장 커밋 푸시" />
     <MESSAGE value="2024-07-18&#10;18장" />
     <option name="LAST_COMMIT_MESSAGE" value="2024-07-18&#10;18장" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/blog/blog-backend/src/api/posts/posts.ctrl.js</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
