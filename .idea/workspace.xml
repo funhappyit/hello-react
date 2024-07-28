@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-18&#10;18장">
-      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/posts.ctrl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_13_7_59___Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_07_13_7_59_오전_[Default_Changelist]/shelved.patch" beforeDir="false" />
+    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-07-21&#10;21장까지">
+      <change afterPath="$PROJECT_DIR$/blog/blog-backend/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/models/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-07-15__9_03__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-07-15_오전_9_03_[Default_Changelist]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/node_modules/nodemon/node_modules/.bin/semver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/node_modules/simple-update-notifier/node_modules/.bin/semver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/posts.ctrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/posts.ctrl.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +57,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="C:\workspace(2022Intellj)\hello-react\test-react\node_modules\eslint" />
+    <property name="node.js.selected.package.eslint" value="C:/workspace(2022Intellj)/hello-react/test-react/node_modules/eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -60,6 +68,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/blog-backend/src" />
+      <recent name="$PROJECT_DIR$/blog/blog-backend" />
+      <recent name="$PROJECT_DIR$/blog/blog-backend/node_modules" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
@@ -118,6 +133,8 @@
       <workItem from="1721293381888" duration="47000" />
       <workItem from="1721343261617" duration="11334000" />
       <workItem from="1721374555996" duration="745000" />
+      <workItem from="1722084363148" duration="8799000" />
+      <workItem from="1722137982164" duration="12084000" />
     </task>
     <task id="LOCAL-00001" summary="fldodf">
       <created>1719823101395</created>
@@ -210,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721293412076</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2024-07-21&#10;21장까지">
+      <created>1721552051515</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721552051515</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,19 +295,8 @@
     <MESSAGE value="2024-07-15&#10;18장 커밋 푸시" />
     <MESSAGE value="2024-07-16&#10;18장 커밋 푸시" />
     <MESSAGE value="2024-07-18&#10;18장" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-07-18&#10;18장" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/blog/blog-backend/src/api/posts/posts.ctrl.js</url>
-          <line>18</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="2024-07-21&#10;21장까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-07-21&#10;21장까지" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
