@@ -1,6 +1,7 @@
 // const Router = require('koa-router');
 import Router from 'koa-router';
 import * as postsCtrl from './posts.ctrl';
+
 // const postsCtrl = require('./posts.ctrl');
 
 const posts = new Router();
