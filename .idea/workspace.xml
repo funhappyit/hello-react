@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-08-02&#10;21장까지">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="639d13e4-dc0f-46e1-972e-5603aeadcfff" name="Default Changelist" comment="2024-08-05&#10;22장까지">
+      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/auth/auth.ctrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/auth/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/blog-backend/src/models/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/blog-backend/node_modules/.bin/nodemon" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/node_modules/.bin/nodemon" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/blog-backend/node_modules/.bin/nodetouch" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/node_modules/.bin/nodetouch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/blog-backend/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/node_modules/.bin/semver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-backend/node_modules/nodemon/node_modules/.bin/nodetouch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-backend/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/node_modules/.yarn-integrity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/blog-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/posts.ctrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/api/posts/posts.ctrl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/createFakeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/createFakeData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-backend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/src/main.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/blog-backend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-backend/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,13 +75,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,7 +140,8 @@
       <workItem from="1722586366712" duration="30000" />
       <workItem from="1722586574323" duration="2765000" />
       <workItem from="1722818650254" duration="4292000" />
-      <workItem from="1722832793465" duration="8467000" />
+      <workItem from="1722832793465" duration="8545000" />
+      <workItem from="1722844580756" duration="3876000" />
     </task>
     <task id="LOCAL-00001" summary="fldodf">
       <created>1719823101395</created>
@@ -248,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722588926275</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2024-08-05&#10;22장까지">
+      <created>1722843435142</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722843435142</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +318,8 @@
     <MESSAGE value="2024-07-18&#10;18장" />
     <MESSAGE value="2024-07-21&#10;21장까지" />
     <MESSAGE value="2024-08-02&#10;21장까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-02&#10;21장까지" />
+    <MESSAGE value="2024-08-05&#10;22장까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-05&#10;22장까지" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
