@@ -1,2 +1,1 @@
-require = require('esm')(module /*, options*/);
-module.exports = require('./main.js');
+import './main.mjs'; // ES 모듈로 main.js를 실행

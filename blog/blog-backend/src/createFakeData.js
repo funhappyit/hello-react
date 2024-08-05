@@ -1,27 +1,22 @@
-import Post from './models/post';
+import Post from './models/post.js';
 
-export default function createFakeData(){
-    const generateRandomText = (length) => {
-        const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-        let result = '';
-        const charactersLength = characters.length;
-        for (let i = 0; i < length; i++) {
-            result += characters.charAt(Math.floor(Math.random() * charactersLength));
-        }
-        return result;
-    };
-
+export default async function createFakeData() {
+    // 0,1 ... 39로 이루어진 배열을 생성한 후 포스트 데이터로 변환
     const posts = [...Array(40).keys()].map(i => ({
-        title: `포스트 #${i}`,
-        body: generateRandomText(100), // 100자의 랜덤 텍스트 생성
+        title: `포스트#${i}`,
+        body: 'dfsdfvcxvxvxvfsfsersdfsdfdsfaewrkljdfvsdklfjvlksjf' +
+            'dfsdjlfkjaskfjawelkjrfkdjflksdjfkasdjfklawjevnsfvaskljle' +
+            'adfjslfjkvcklxvnsejriortfjfjsklfjaskdfjlajfklwejivnvlskdfn' +
+            'sdfkjasklfjoivwnerkvnsaoirujwenfkdasklfjalsjfdklsdjfdlk' +
+            'dsfkeivsdkfwjeklciovskjdlfjwoifvnsklfghkewjiojvsdvnksldf' +
+            'sdfskfjweoivnklsmfksdmfwsiejrfsdkfljal',
         tags: ['가짜', '데이터'],
     }));
-    Post.insertMany(posts, (err, docs) => {
-        if (err) {
-            console.error(err);
-        } else {
-            console.log(docs);
-        }
-    });
 
+    try {
+        const docs = await Post.insertMany(posts); // insertMany는 Promise를 반환하므로 await 사용
+        console.log('Inserted posts:', docs);
+    } catch (err) {
+        console.error('Error inserting posts:', err);
+    }
 }

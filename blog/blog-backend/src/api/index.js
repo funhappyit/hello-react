@@ -1,11 +1,8 @@
-// api.js
-
 import Router from 'koa-router';
-import posts from './posts';
+import posts from './posts/index.js'; // 디렉토리 내부의 index.js를 명시적으로 가져옴
 
 const api = new Router();
 
 api.use('/posts', posts.routes());
 
-// 라우터를 내보냅니다.
 export default api;

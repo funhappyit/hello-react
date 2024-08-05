@@ -4,6 +4,7 @@ import Router from 'koa-router';
 import bodyParser from 'koa-bodyparser';
 import mongoose from 'mongoose';
 import api from './api/index.js';
+import createFakeData from './createFakeData.js'; // 필요 시 활성화
 
 // dotenv 설정
 dotenv.config();
@@ -15,6 +16,7 @@ mongoose
     .connect(MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
     .then(() => {
         console.log("Connected to MongoDB");
+         createFakeData(); // 필요 시 활성화
     })
     .catch(e => {
         console.error(e);
